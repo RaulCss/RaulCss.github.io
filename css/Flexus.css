@@ -445,6 +445,12 @@ button.btn, a.btn{
     line-height: 1;
 }
 
+a.btn{
+  display: flex;
+  align-items: center;
+  padding: initial
+  }
+
 .btn-text > button,
 .btn-text > span,
 .btn-text > a {
